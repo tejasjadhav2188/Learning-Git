@@ -10,4 +10,14 @@ git add . --> to add all files in the working directory to tracked
 
 git commit -m "commit msg"
 
+git log --> to check the commit log
+
+git diff file_name --> to see difference in the file from last commit
+
+git checkout file_name --> to revert the file to last commited change
+
+git remote add origin https://github.com/tejasjadhav2188/Learning-Git.git --> to link the local repo to remote repo
+
+git push -u origin main  --> to push the files in local repo to remote repo
+
 
