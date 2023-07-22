@@ -1,0 +1,11 @@
+This is Chapter 1
+
+git init -->to initialize the git 
+
+git status --> to check the files being tracked
+
+git add file_name --> to add files to tracking list
+
+git add . --> to add all files in the working directory to tracked
+
+
